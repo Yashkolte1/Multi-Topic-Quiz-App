@@ -1,6 +1,6 @@
 # Multi-Topic-Quiz-App
 
-#Features
+# Features
 
 1. You Can Choose Your Favourite Topic On Which You Can Give Quiz
 2. Options Are Given For Each Question
