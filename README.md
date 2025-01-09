@@ -10,3 +10,6 @@
 
 
    Enjoy The Quiz And Let Me Know Your Reviews And Thoughts On It, This Will Help You To Increase Your General Knowledge In Various Subjects Like Maths Entertainment Geography ANd Main Is Programming.
+
+# Screenshot
+![image alt](https://github.com/Yashkolte1/Multi-Topic-Quiz-App/blob/main/quiz%20app.jpg?raw=true)
