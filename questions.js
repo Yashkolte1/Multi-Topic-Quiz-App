@@ -326,7 +326,7 @@ const questions = [
       {
         question: "What Is The Value Of 10 ÷ 2 + 3?",
         options: ["8","7","9","6"],
-        correctAnswer: 1,
+        correctAnswer: 0,
       },
       {
         question: "What Is 3 x 7 + 2?",
